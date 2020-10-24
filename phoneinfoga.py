@@ -23,7 +23,7 @@ def banner():
     print(" \/    |_| |_|\___/|_| |_|\___\____/ |_| |_|_|  \___/ \__, |\__,_|")
     print("                                                      |___/       ")
     print(" PhoneInfoga Ver. {}".format(__version__))
-    print(" Coded by Charon IV")
+    print(" Coded by XFORWORKS")
     print("\n")
 
 banner()
