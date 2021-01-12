@@ -71,7 +71,8 @@ copy con %name%
 if exist %name% copy %name% + con
 
 :DDOS
-cd desktop
+cd downloads
+cd TrackingScripts
 cd dedsec-BR
 cd tools
 cd anonsec dddos
